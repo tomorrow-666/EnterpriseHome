@@ -1,0 +1,12 @@
+header{
+    color: white;
+    line-height: 44px;
+    font-size: 18px;
+    text-align: center;
+    background: rgb(32, 131, 204);
+
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: fixed;
+}
